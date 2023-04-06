@@ -52,8 +52,8 @@
 /* This styles the aside container */
 
 #aSide {
-    height: 800px;
-    width: 500px;
+    height: 400px;
+    width: 250px;
     margin:auto;
 }
 
@@ -61,14 +61,14 @@
 /* This styles the 3D object inserted in the aside container */
 
 #aSide model-viewer {
-    height: 800px;
-    width: 500px;
+    height: 400px;
+    width: 250px;
     margin:auto;
     border: none;
 }
 #aSid {
-    height: 800px;
-    width: 500px;
+    height: 400px;
+    width: 250px;
     margin:auto;
 }
 
@@ -76,14 +76,14 @@
 /* This styles the 3D object inserted in the aside container */
 
 #aSid model-viewer {
-    height: 800px;
-    width: 500px;
+    height: 400px;
+    width: 250px;
     margin:auto;
     border: none;
 }
 #aBLOOD {
-    height: 800px;
-    width: 500px;
+    height: 400px;
+    width: 250px;
     margin:auto;
 }
 
@@ -91,14 +91,14 @@
 /* This styles the 3D object inserted in the aside container */
 
 #aBLOOD model-viewer {
-    height: 800px;
-    width: 500px;
+    height: 400px;
+    width: 250px;
     margin:auto;
     border: none;
 }
 #aCARM {
-    height: 800px;
-    width: 500px;
+    height: 400px;
+    width: 250px;
     margin:auto;
 }
 
